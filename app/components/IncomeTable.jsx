@@ -1,6 +1,9 @@
 import React from "react";
 
 const IncomeTable = ({ data, deleteEntry, editEntry }) => {
+
+  console.log("Checking...");
+  
   return (
     <div>
       <h3>Income Table</h3>
