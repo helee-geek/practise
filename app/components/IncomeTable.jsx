@@ -4,6 +4,8 @@ const IncomeTable = ({ data, deleteEntry, editEntry }) => {
 
   console.log("Checking main");
   console.log("Checking again in main....");
+  console.log("Checking 123");
+  console.log("Checking again.....");
   
   return (
     <div>
