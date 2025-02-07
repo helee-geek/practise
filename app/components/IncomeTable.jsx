@@ -3,6 +3,7 @@ import React from "react";
 const IncomeTable = ({ data, deleteEntry, editEntry }) => {
 
   console.log("Checking main");
+  console.log("Checking again in main....");
   
   return (
     <div>
